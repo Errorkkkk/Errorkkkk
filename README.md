@@ -1,16 +1,15 @@
-## Hi there 👋
+<pre>
+      ..      .                                                              ..            ..            ..            ..      
+   x88f` `..x88. .>                                                    &lt; .z@8"`      &lt; .z@8"`      &lt; .z@8"`      &lt; .z@8"`      
+ :8888   xf`*8888%     .u    .      .u    .          u.      .u    .    !@88E         !@88E         !@88E         !@88E        
+:8888f .888  `"`     .d88B :@8c   .d88B :@8c   ...ue888b   .d88B :@8c   '888E   u     '888E   u     '888E   u     '888E   u    
+88888' X8888. >"8x  ="8888f8888r ="8888f8888r  888R Y888r ="8888f8888r   888E u@8NL    888E u@8NL    888E u@8NL    888E u@8NL  
+88888  ?88888< 888>   4888>'88"    4888>'88"   888R I888>   4888>'88"    888E`"88*"    888E`"88*"    888E`"88*"    888E`"88*"  
+88888   "88888 "8%    4888> '      4888> '     888R I888>   4888> '      888E .dN.     888E .dN.     888E .dN.     888E .dN.   
+88888 '  `8888>       4888>        4888>       888R I888>   4888>        888E~8888     888E~8888     888E~8888     888E~8888   
+`8888> %  X88!       .d888L .+    .d888L .+   u8888cJ888   .d888L .+     888E '888&    888E '888&    888E '888&    888E '888&  
+ `888X  `~""`   :    ^"8888*"     ^"8888*"     "*888*P"    ^"8888*"      888E  9888.   888E  9888.   888E  9888.   888E  9888. 
+   "88k.      .~        "Y"          "Y"         'Y"          "Y"      '"888*" 4888" '"888*" 4888" '"888*" 4888" '"888*" 4888" 
+     `""*==~~`                                                            ""    ""      ""    ""      ""    ""      ""    ""   
 
-<!--
-**Errorkkkk/Errorkkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre>
