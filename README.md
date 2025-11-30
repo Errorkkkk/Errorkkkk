@@ -50,26 +50,26 @@
   </p>
 <br/>
 
-  <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Minhas especialidades</h2>
-  <ul>
-    <li><strong>Roteirista</strong> — Escrevo roteiros complexos, com grande profundidade narrativa.</li>
-    <li><strong>Narrativa Técnica</strong> — worldbuilding ramificado, NPCs que funcionam como nós lógicos, leituras que retornam ao jogador.</li>
-    <li><strong>Direção de arte</strong> — Sou formado descricao
-    <li><strong>Fotografia</strong> — Sou formado descricao
-    <li><strong>Designer Gráfico</strong> — Sou formado descricao</li>
-    <li><strong>Ilustrador digital</strong> — Desenhos... descriçaõ</li>
-    <li><strong>Animador 3D</strong> — descricao</li>
-    <li><strong>Modelador 3D</strong> — descricao</li>
-    <li><strong>Game Designer</strong> — descricao</li>
-    <li><strong>Worldbuinding</strong> — descricao</li>
-    <li><strong>Compositor</strong> — descricao</li>
-  </ul>
+<h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Minhas especialidades</h2>
+  <ul>
+    <li><strong>Roteirista</strong> — Criação de <strong>narrativas complexas</strong> e diálogos autênticos.
+    <li><strong>Narrativa Técnica</strong> — Design de <strong>sistemas de worldbuilding ramificado</strong> e <strong>storytelling emergente</strong>.
+    <li><strong>Direção de Arte</strong> — Definição da <strong>estética visual</strong> e <strong>guia de estilo</strong> de projetos.
+    <li><strong>Fotografia</strong> — Direção em <strong>fotografia de cinematics</strong>. <strong>(Formado)</strong>
+    <li><strong>Designer Gráfico</strong> — <strong>Criação de artes promocionais</strong> e manipulação de imagem. <strong>(Formado)</strong>
+    <li><strong>Ilustrador Digital</strong> — Criação de <strong>artes conceituais</strong> e ilustrações digitais.
+    <li><strong>Animador 3D</strong> — Experiência em <strong>animação 3D</strong> de personagens.
+    <li><strong>Modelador 3D</strong> — Criação de <strong>props e personagens 3D</strong> com foco em low poly.
+    <li><strong>Game Designer</strong> — Definição do <strong>core loop</strong> e <strong>sistemas de jogo</strong>.
+    <li><strong>Worldbuilding</strong> — Criação de mundos profundos e desenvolvidos.
+    <li><strong>Compositor</strong> — Produção de <strong>trilhas sonoras</strong> simples e atmosféricas.
+  </ul>
 <br/>
   <!-- Visão -->
   <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Visão</h2>
   <p>
     Minha paixão está em criar o estado mais puro da arte. Enxergo os jogos como meios perfeitos para externalizar esse sentimento.
-    Opto por projetos e equipes que possuam essa mesma obsessão pela exelência. Por isso projetos com uma visão mais cinematografica e narrativa são meus favoritos.
+    Por isso projetos com uma visão mais cinematográfica e narrativa, com equipes que possuam essa mesma obsessão pela exelência, são meus favoritos.
   </p>
 <br/>
 
