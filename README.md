@@ -72,6 +72,7 @@
     Opto por projetos e equipes que possuam essa mesma obsessão pela exelência. Por isso projetos com uma visão mais cinematografica e narrativa são meus favoritos.
   </p>
 <br/>
+
   <!-- Projetos -->
   <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Meus projetos</h2>
   <ul>
@@ -80,6 +81,7 @@
     <li><strong>Honorless™</strong> — Jogo de cartas Deckbuilder: focado em combate de gradiadoers.
   </ul>
 <br/>
+
   <p>
     ✉️ Email: <a href="mailto:httpserror.suporte@gmail.com">httpserror.suporte@gmail.com</a><br/>
   </p>
