@@ -76,7 +76,7 @@
   <!-- Projetos -->
   <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Meus projetos</h2>
   <ul>
-    <li><strong>Tales of the Nightmares: Episode one</strong> — Third Person shooter cinemático: Fantasia sombria, atmosférico e militar. Disponivel <a href="https://store.steampowered.com/app/3637800/Tales_of_The_Nightmares_Episode_One/"><strong>aqui</strong></a>.
+    <li><strong>Tales of the Nightmares: Episode one</strong> — Third Person shooter: Fantasia sombria, atmosférico e militar. Disponivel <a href="https://store.steampowered.com/app/3637800/Tales_of_The_Nightmares_Episode_One/"><strong>aqui</strong></a>.
     <li><strong>Tales of the Nightmares: Episode Two</strong> — Soulslike narrativo: progressão orgânica, mundo decadente e storytelling fragmentado. 
     <li><strong>Honorless™</strong> — Jogo de cartas Deckbuilder: focado em combate de gradiadoers.
   </ul>
