@@ -65,13 +65,6 @@
     <li><strong>Compositor</strong> — Produção de <strong>trilhas sonoras</strong> simples e atmosféricas.
   </ul>
 <br/>
-  <!-- Visão -->
-  <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Visão</h2>
-  <p>
-    Minha paixão está em criar o estado mais puro da arte. Enxergo os jogos como meios perfeitos para externalizar esse sentimento.
-    Por isso projetos com uma visão mais cinematográfica e narrativa, com equipes que possuam essa mesma obsessão pela exelência, são meus favoritos.
-  </p>
-<br/>
 
   <!-- Projetos -->
   <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Meus projetos</h2>
@@ -81,6 +74,15 @@
     <li><strong>Honorless™</strong> — Jogo de cartas Deckbuilder: focado em combate de gradiadoers.
   </ul>
 <br/>
+
+  <!-- Visão -->
+  <h2 style="border-left:4px solid #222; padding-left:10px; font-size:1.05rem; margin-top: 18px;">Visão</h2>
+  <p>
+    Minha paixão está em criar o estado mais puro da arte. Enxergo os jogos como meios perfeitos para externalizar esse sentimento.
+    Por isso projetos com uma visão mais cinematográfica e narrativa, com equipes que possuam essa mesma obsessão pela exelência, são meus favoritos.
+  </p>
+<br/>
+
 
   <p>
     ✉️ Email: <a href="mailto:httpserror.suporte@gmail.com">httpserror.suporte@gmail.com</a><br/>
